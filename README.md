@@ -17,9 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-<video src='https://github.com/agrikatheprogrammer/IOS101-PREWORK/blob/main/IOS101-PREWORK.mp4' width=180/>
+![walkthru](https://github.com/agrikatheprogrammer/IOS101-PREWORK/blob/main/ezgif-1-93f9f81bb5.gif)
 
 ## App Brainstorming (Step 4)
 
