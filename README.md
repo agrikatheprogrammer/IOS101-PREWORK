@@ -21,9 +21,34 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+**Favorite Apps and Features**
+
+1. **TikTok**
+   - **Endless tailored scroll of content**
+   - **Editing tools**
+   
+2. **Snapchat**
+   - **Lenses and filters**
+   - **Short, daily stories**
+
+3. **WhatsApp**
+   - **Free voice and video calls**
+   - **Group chats**
+
+---
+
+**App Idea: Disability-Friendly Maps**
+
+I’d like to build Maps that specifically focuses on accessibility features for individuals with disabilities. The app would have features like:
+- **Wheelchair Accessibility Filtering**: Users could filter routes and locations that are wheelchair accessible, including ramps, elevators, and door widths.
+- **Accessible Bathrooms**: The app would highlight locations with wheelchair-accessible bathrooms and even provide real-time updates on their availability or maintenance status.
+- **Audio Navigation with Visual Cues**: For users with vision impairments, I would integrate audio navigation, as well as provide visual cues for better understanding of surroundings. 
+
+The goal would be to create a navigation tool that’s truly inclusive for people with different needs.
+
 ## Notes
 
-None.
+No challenges faced.
 
 ## License
 
