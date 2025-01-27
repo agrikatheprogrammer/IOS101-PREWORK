@@ -1,19 +1,19 @@
 # IOS101-PREWORK
 
-# Prework - *Name of App Here*
+# Prework - CodePathAgrika
 
-Submitted by: **Your Name Here**
+Submitted by: Agrika Gupta
 
-**Name of your app** is an app that... [TODO] 
+**CodePathAgrika** is an app that changes background color upon button click to random color each time and displays information about me.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+None.
 
 ## License
 
